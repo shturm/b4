@@ -1,0 +1,139 @@
+!SESSION 2016-10-18 00:02:42.764 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data /home/alx/src/b4 -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-10-18 00:04:19.780
+!MESSAGE Indexed 'b4' (0 sources, 0 headers) in 0.006 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+!SESSION 2016-10-18 09:34:09.125 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2016-10-18 09:39:50.450
+!MESSAGE Server returned lastModified <= 0 for https://raw.github.com/guari/eclipse-ui-theme/master/com.github.eclipseuitheme.themes.updatesite/content.jar
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2016-10-18 09:39:59.010
+!MESSAGE Server returned lastModified <= 0 for https://raw.github.com/guari/eclipse-ui-theme/master/com.github.eclipseuitheme.themes.updatesite/artifacts.jar
+!SESSION 2016-10-18 09:40:20.808 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data file:/home/alx/src/b4/ -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-18 09:42:37.491
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-18 09:42:37.491
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-18 09:42:37.501
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-18 09:42:37.503
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-18 09:42:37.523
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-18 09:42:37.524
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-18 09:42:37.534
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-18 09:42:37.535
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-18 09:42:37.743
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-18 09:42:37.744
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-18 09:42:37.751
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-18 09:42:37.751
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-18 09:42:37.757
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-18 09:42:37.758
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-18 09:42:37.764
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-18 09:42:37.765
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.epp.mpc.ui 1 0 2016-10-18 09:54:29.656
+!MESSAGE Performing Marketplace install request from http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=630774
+!SESSION 2016-10-20 08:40:33.889 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-10-20 08:40:37.544
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-20 09:40:59.805
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-20 09:40:59.808
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-20 09:40:59.821
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-20 09:40:59.822
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-20 09:40:59.841
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-20 09:40:59.842
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-20 09:40:59.864
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-20 09:40:59.865
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-20 09:40:59.984
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-20 09:40:59.984
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-20 09:41:00.004
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-20 09:41:00.004
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-20 09:41:00.012
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-20 09:41:00.013
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-20 09:41:00.141
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2016-10-20 09:41:00.142
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
